@@ -1,0 +1,3 @@
+// isFile
+// isDir
+// isSymlink
