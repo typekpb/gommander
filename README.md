@@ -2,6 +2,17 @@
 
 idea:
 
+pub-sub using golang channels (https://stackoverflow.com/questions/3733761/observer-pattern-in-go-language  + https://blog.logrocket.com/how-use-go-channels/)
+
+variable type checking in runtime:
+https://stackoverflow.com/questions/6996704/how-to-check-variable-type-at-runtime-in-go-language
+
+
+
+
+
+
+
 event types:
 * https://github.com/google/go-github/blob/master/github/event_types.go
 
